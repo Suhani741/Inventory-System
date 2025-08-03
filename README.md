@@ -76,11 +76,6 @@ struct Product
     int quantity;  
 };
 
-**FILES USED**
-
-ELECTRONICS.txt  
-Stores and retrieves product information using basic file I/O functions like fopen, fprintf, fscanf, and fclose.
-
 **LIMITATIONS**
 
 - Only 20 products supported (can be increased)  
