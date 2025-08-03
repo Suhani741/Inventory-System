@@ -83,9 +83,5 @@ struct Product
 - Inventory is updated in memory, not saved back to file  
 - No duplicate ID or input validation
 
-**COMPILE AND RUN**
-
-gcc inventory.c -o inventory  
-./inventory
 
       
